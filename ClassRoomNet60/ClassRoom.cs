@@ -30,4 +30,5 @@ namespace ClassRoomNet60
             SemesterStart = semesterStart;
             Classname = classname;
         }
-        
+    }
+}
